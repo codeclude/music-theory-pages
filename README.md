@@ -1,43 +1,43 @@
 # music-theory-pages
 
-Music Theory for Musicians and Normal People
-by Toby W. Rush
+Teoria muzyki dla muzyków i zwykłych ludzi
+autor: Toby W. Rush
 
-This is collection of educational music theory resources originally released under a CC-BY-NC-ND license, which I am now making available under a CC-BY-NC 4.0 license, allowing others to use, edit, and adapt freely.
+To zbiór materiałów edukacyjnych z teorii muzyki, pierwotnie opublikowanych na licencji CC-BY-NC-ND, które udostępniam teraz na licencji CC-BY-NC 4.0, pozwalającej innym na swobodne używanie, edytowanie i adaptowanie.
 
-The original documents, composed in American English, and are located in the en-us/ directory. Each file is available in three different formats:
+Oryginalne dokumenty, napisane w amerykańskiej odmianie języka angielskiego, znajdują się w katalogu en-us/. Każdy plik jest dostępny w trzech formatach:
 
 - Adobe Illustrator (.ai)
 - Portable Document Format (.pdf)
 - Scalable Vector Graphics (.svg)
 
-These pages were originally created in Adobe Illustrator, but you can edit them in any vector graphics program (such as Inkscape, Vecteezy, or many others) by opening the SVG version.
+Strony zostały pierwotnie przygotowane w Adobe Illustrator, ale możesz je edytować w dowolnym programie do grafiki wektorowej (takim jak Inkscape, Vecteezy i wielu innych), otwierając wersję SVG.
 
-**Fonts**
+**Czcionki**
 
-PDF files contain subsets of the required fonts embedded into the document. Because many of the fonts are not available under a Creative Commons license, they are not included in this package; to open or edit the Illustrator or SVG files, you must procure the necessary fonts, or replace them with other fonts.
+Pliki PDF zawierają osadzone podzbiory wymaganych czcionek. Ponieważ wiele z nich nie jest dostępnych na licencji Creative Commons, nie zostały dołączone do tego pakietu; aby otworzyć lub edytować pliki Illustrator albo SVG, musisz zdobyć odpowiednie czcionki lub zastąpić je innymi.
 
-In the American English pages, most comic lettering is set in BlamBot’s Smack Attack and Smack Attack Bold, page titles are in Microsoft’s Haettenschweiler, and additional text on Sparky’s pages are in set in BlamBot’s BadaBoom. Staff notation makes use of MakeMusic’s Maestro notation font.
+W wersji amerykańskoangielskiej większość komiksowego liternictwa ustawiono krojami BlamBot Smack Attack i Smack Attack Bold, tytuły stron są zapisane krojem Microsoft Haettenschweiler, a dodatkowy tekst na stronach Sparky’ego ustawiono krojem BlamBot BadaBoom. Zapis nutowy wykorzystuje czcionkę notacyjną MakeMusic Maestro.
 
-Because the free version of Smack Attack does not include accented characters, many of the non-English pages use BlamBot’s Might Makes Right for lettering.
+Ponieważ darmowa wersja Smack Attack nie zawiera znaków diakrytycznych, wiele stron w innych językach wykorzystuje do liternictwa krój BlamBot Might Makes Right.
 
-**Translations**
+**Tłumaczenia**
 
-Many of these pages have been translated into other languages, thanks to the efforts of wonderful volunteers over the past decade. Translated versions, which range from a few pages to near-complete sets, are organized into folders by language code:
+Wiele z tych stron zostało przetłumaczonych na inne języki dzięki pracy wspaniałych wolontariuszy na przestrzeni ostatniej dekady. Wersje tłumaczone, obejmujące od kilku stron po niemal kompletne zestawy, są uporządkowane w folderach według kodów językowych:
 
-- CY - Welsh
-- DE - German
-- EN-UK - English (British/Australian localisation)
-- ES-ES - Spanish
-- ES-MX - Mexican Spanish
-- EU - Basque
-- FR - French
-- GL - Galician
-- IT - Italian
-- PT-BR - Brazilian Portuguese
-- PT-PT - Portuguese
-- RU - Russian
-- VI - Vietnamese
-- ZH - Simplified Chinese
+- CY - walijski
+- DE - niemiecki
+- EN-UK - angielski (lokalizacja brytyjska/australijska)
+- ES-ES - hiszpański
+- ES-MX - hiszpański meksykański
+- EU - baskijski
+- FR - francuski
+- GL - galicyjski
+- IT - włoski
+- PT-BR - portugalski brazylijski
+- PT-PT - portugalski
+- RU - rosyjski
+- VI - wietnamski
+- ZH - chiński uproszczony
 
-My hope is that releasing these files under a more open license will facilitate the continued development of these translations and the addition others.
+Mam nadzieję, że udostępnienie tych plików na bardziej otwartej licencji ułatwi dalszy rozwój istniejących tłumaczeń oraz dodawanie kolejnych.
