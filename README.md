@@ -36,6 +36,7 @@ Wiele z tych stron zostało przetłumaczonych na inne języki dzięki pracy wspa
 - IT - włoski
 - PT-BR - portugalski brazylijski
 - PT-PT - portugalski
+- PL - polski
 - RU - rosyjski
 - VI - wietnamski
 - ZH - chiński uproszczony
